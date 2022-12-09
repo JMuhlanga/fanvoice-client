@@ -41,3 +41,27 @@ the conversation
 * SQL
 * Rails
 
+## Kindly find Screenshots of the project working in the local machine as Netlify deploy has build issues
+
+1. Home Page
+
+<img src="Project-ScreenSHots/Screenshot from 2022-12-09 15-26-05.png" alt="Alt text" title="Optional title">
+
+2. Sports Page
+
+<img src="Project-ScreenSHots/Screenshot from 2022-12-09 15-26-17.png" alt="Alt text" title="Optional title">
+
+
+3. Gaming Page
+
+<img src="Project-ScreenSHots/Screenshot from 2022-12-09 15-26-22.png" alt="Alt text" title="Optional title">
+
+4. About Page
+
+<img src="Project-ScreenSHots/Screenshot from 2022-12-09 15-26-26.png" alt="Alt text" title="Optional title">
+
+
+5. Log-in Page
+
+<img src="Project-ScreenSHots/Screenshot from 2022-12-09 15-26-34.png" alt="Alt text" title="Optional title">
+
