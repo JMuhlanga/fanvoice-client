@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 function NavBar(){
     return(
         <>
-            <nav className="navbar navbar-expand-lg navbar-light fixed-top mask-custom shadow-0">
+            <nav className="navbar navbar-expand-lg  fixed-top mask-custom shadow-0">
                 <div className="container">
                     
                     <NavLink className="navbar-brand" to="/" >FAN-VOICE-KE</NavLink>
