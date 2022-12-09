@@ -19,3 +19,7 @@ code {
   position: relative; 
   height: 714px;
 }
+
+*{
+  font-family:sans-serif
+}

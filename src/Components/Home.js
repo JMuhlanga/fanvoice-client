@@ -13,7 +13,7 @@ function Home(){
         <>
             <div class="col">
                 <div class="card shadow-sm">
-                    <img src={aobj.img} alt="Article-realated " />
+                    <img src={aobj.img} alt="Article-realated Image" />
                     <div className="card-body">
                         <h3>{aobj.title}</h3>
                     <p className="card-text">{aobj.content.substring(0,150)}</p>

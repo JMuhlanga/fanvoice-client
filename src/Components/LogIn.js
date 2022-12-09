@@ -37,6 +37,10 @@ function LogIn(){
                             <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" value={password} onChange={(e) => setPassword(e.target.value)} />
                             <div id="emailHelp" className="form-text">We'll never share your password with anyone else.</div>
                         </div>
+                        <div className="mb-3">
+                            {/* <div id="emailHelp" className="form-text">Not Yet a member? <a href={<SignUp />}>Sign-Up</a> </div> */}
+                        </div>
+
                         
                         <button type="submit" className="btn btn-primary">Log-In</button>
                     </form>
