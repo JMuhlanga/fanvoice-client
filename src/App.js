@@ -6,6 +6,7 @@ import Footer from './Components/Footer';
 import Sports from './Components/Sports';
 import PopCulture from './Components/PopCulture';
 import Gaming from './Components/Gaming';
+import AboutUs from './Components/About';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/sports" element={<Sports />} />
           <Route path="/popculture" element={<PopCulture />} />
           <Route path="/gaming" element={<Gaming />} />
+          <Route path="/about" element={<AboutUs />} />
         </Routes>
         <Footer />
       </BrowserRouter>                

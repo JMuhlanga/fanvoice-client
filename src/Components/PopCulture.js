@@ -15,7 +15,7 @@ function PopCulture(){
                 <>
                     <div class="col">
                         <div class="card shadow-sm">
-                            <img src={aobj.img} />
+                            <img src={aobj.img} alt="Article-realated " />
                             <div className="card-body">
                                 <h3>{aobj.title}</h3>
                             <p className="card-text">{aobj.content}</p>
