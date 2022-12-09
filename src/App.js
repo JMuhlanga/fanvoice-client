@@ -7,6 +7,8 @@ import Sports from './Components/Sports';
 import PopCulture from './Components/PopCulture';
 import Gaming from './Components/Gaming';
 import AboutUs from './Components/About';
+import ContactUs from './Components/Contact';
+import LogIn from './Components/LogIn';
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
           <Route path="/popculture" element={<PopCulture />} />
           <Route path="/gaming" element={<Gaming />} />
           <Route path="/about" element={<AboutUs />} />
+          <Route path="/contact" element={<ContactUs />} />
+          <Route path="/login" element={<LogIn />} />
         </Routes>
         <Footer />
       </BrowserRouter>                

@@ -9,7 +9,7 @@ function Gaming(){
           .then((dataObj) => setArtObj(dataObj))
       },[setArtObj])
 
-    const article = artObj.map((aobj)=>{
+    const article = artObj.map((aobj)=>{ 
         if(aobj.category_id === 3){
             return(
                 <>
