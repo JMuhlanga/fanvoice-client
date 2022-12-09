@@ -41,6 +41,16 @@ the conversation
 * SQL
 * Rails
 
+## Relevant Links
+
+Client Repository:https://github.com/JMuhlanga/fanvoice-client
+
+Server Repository:https://github.com/JMuhlanga/fanvoice-server
+
+Deployed Server: https://fanvoice-server-production.up.railway.app/
+
+Deployed Project: https://fanvoice-client.vercel.app/
+
 ## Kindly find Screenshots of the project working in the local machine as Netlify deploy has build issues
 
 1. Home Page
