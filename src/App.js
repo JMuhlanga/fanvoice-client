@@ -4,6 +4,8 @@ import NavBar from './Components/NavBar';
 import Home from './Components/Home';
 import Footer from './Components/Footer';
 import Sports from './Components/Sports';
+import PopCulture from './Components/PopCulture';
+import Gaming from './Components/Gaming';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/sports" element={<Sports />} />
+          <Route path="/popculture" element={<PopCulture />} />
+          <Route path="/gaming" element={<Gaming />} />
         </Routes>
         <Footer />
       </BrowserRouter>                
